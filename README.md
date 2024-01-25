@@ -2,8 +2,6 @@
 
 C-SNAKE is a simple implementation of the classic Snake game in C language. It is designed for educational purposes and as a fun project to understand basic game development concepts.
 
-![C-SNAKE Demo](demo.gif)
-
 ## Features
 
 - Simple and clean C codebase.
