@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sdl_keycode.h": "c",
+        "sdl.h": "c",
+        "stdbool.h": "c",
+        "sdl2_gfxprimitives.h": "c"
+    }
+}

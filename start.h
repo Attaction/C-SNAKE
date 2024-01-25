@@ -1,0 +1,1 @@
+void startMenu(bool game_close, SDL_Color White);
